@@ -1,6 +1,6 @@
 # Inferring cell type-specific tissue expression from single-nucleus data with deep learning
 
-<img width="1100" height="350" alt="Screenshot 2026-09-28 at 3 00 08 PM" src="https://github.com/user-attachments/assets/edff140a-8bd8-4959-b2e7-a8437d449971" />
+<img width="1100" height="400" alt="Screenshot 2026-09-28 at 3 00 08 PM" src="https://github.com/user-attachments/assets/edff140a-8bd8-4959-b2e7-a8437d449971" />
 
 
 ## Usage
