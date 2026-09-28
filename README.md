@@ -1,2 +1,2 @@
 # snRNAtoTissue
-Inferring cell type-resolved tissue expression from single-nucleus data
+Inferring cell type-specific tissue expression from single-nucleus data with deep learning
